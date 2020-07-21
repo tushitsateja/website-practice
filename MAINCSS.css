@@ -243,8 +243,8 @@ nav ul li a:hover{
     text-align: right;
 }
 
-@media only screen and (max-weight: 1600){
-    .logo{
-        font-size: 100em;
+@media only screen and (min-width: 1500px){
+    .cta{
+      width: 20%;
     }
 }
